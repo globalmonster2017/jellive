@@ -1,1 +1,1 @@
-broadcastUrl : http://m.full.co.kr, 
+broadcastUrl => http://m.full.co.kr, 
