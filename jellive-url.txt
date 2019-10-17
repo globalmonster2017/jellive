@@ -1,1 +1,1 @@
-{"jellive" : {"broadcastUrl" : "http://m.full.co.kr", "redirectUrl" : null}}
+{"jellive" : {"broadcastUrl" : "http://m.full.co.kr", "openMarketUrl" : null}}
